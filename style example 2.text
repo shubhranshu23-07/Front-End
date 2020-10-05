@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+<body style="background-color:powderblue;">
+<!-- example for set backround color for two different elements -->
+
+<h1 style="background-color:powderblue;">This is a heading</h1>
+<p style="background-color:tomato;">This is a paragraph.</p>
+
+<!-- example for background color ends here-->
+
+</body>
+</body>
+</html>
