@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<body>
+<!-- example for bold element start here-->
+<p>This text is normal.</p>
+
+<p><b>This text is bold.</b></p>
+example for bold element ends here
+
+<!-- example for strong element starts here-->
+<p>This text is normal.</p>
+
+<p><strong>This text is important!</strong></p>
+<!-- example for strong element ends here-->
+
+<!-- example for italic element starts here-->
+<p>This text is normal.</p>
+
+<p><i>This text is italic.</i></p>
+<!-- example for italic element ends here-->
+
+<!-- example for emphasized element starts here here-->
+
+<p>This text is normal.</p>
+
+<p><em>This text is emphasized.</em></p>
+<!-- example for emphasized element ends here-->
+<!-- example for small element starts here-->
+<p>This is some normal text.</p>
+<p><small>This is some smaller text.</small></p>
+<!-- example for small element ends here-->
+<!-- example for Mark element starts here-->
+<p>Do not forget to buy <mark>laptop</mark> 
+<!-- example for Mark element ends here-->
+today.</p>
+<!-- example for Del element starts here-->
+<p>My favorite color is <del>blue</del> red.</p>
+<!-- example for del element ends here-->
+<!-- example for Ins element starts here-->
+<p>My favorite color is <del>blue</del> <ins>red</ins>.</p>
+<!-- example for Ins element ends here-->
+<!-- example for Sub element starts here-->
+<p>This is <sub>subscripted</sub> text.</p>
+<!-- example for Sub element ends here-->
+<!-- example for Sup element starts here-->
+<p>This is <sup>superscripted</sup> text.</p>
+<!-- example for Sup element ends here-->
+</body>
+</body>
+</html>
