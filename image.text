@@ -1,0 +1,9 @@
+<doctyple html>
+<html>
+<head>
+<body>
+<h1> IMAGE EXAMPLE</h1>
+<img src="download.jpg" alt="pic">
+<p> This Example represent image</p>
+</body>
+</html>
